@@ -1,4 +1,8 @@
 # smbms
 超市订单管理系统
+
 技术栈为：Servlet + JSP
-环境部署：Tomcat
+
+项目环境： IDEA2023.2 JDK1.8 Tomcat8.5.39 MySql8.0.32
+
+项目参考文档： 项目中的SMBMS.md文档有部分项目开发流程
